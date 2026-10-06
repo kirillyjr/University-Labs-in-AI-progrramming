@@ -1,0 +1,101 @@
+id,name,department,year_joined,email,position,salary,city,phone,status
+1,Employee 1,Support,2020,employee1@company.com,Specialist,138758,Kazan,+7-900-3143650,inactive
+2,Employee 2,Support,2010,employee2@company.com,Developer,162939,Kazan,+7-900-2972092,active
+3,Employee 3,HR,2019,employee3@company.com,Specialist,65349,Saint Petersburg,+7-900-5315575,inactive
+4,Employee 4,Finance,2012,employee4@company.com,Developer,82464,Novosibirsk,+7-900-5456201,inactive
+5,Employee 5,Marketing,2015,employee5@company.com,Specialist,169322,Saint Petersburg,+7-900-4528780,inactive
+6,Employee 6,HR,2015,employee6@company.com,Developer,157232,Kazan,+7-900-5567243,inactive
+7,Employee 7,Sales,2013,employee7@company.com,Engineer,198457,Saint Petersburg,+7-900-9261976,inactive
+8,Employee 8,Support,2023,employee8@company.com,Developer,124429,Kazan,+7-900-5270279,inactive
+9,Employee 9,Finance,2010,employee9@company.com,Engineer,150873,Saint Petersburg,+7-900-4422989,inactive
+10,Employee 10,HR,2023,employee10@company.com,Analyst,139235,Moscow,+7-900-1797933,inactive
+11,Employee 11,Sales,2024,employee11@company.com,Specialist,65924,Yekaterinburg,+7-900-6293862,inactive
+12,Employee 12,IT,2014,employee12@company.com,Developer,177412,Novosibirsk,+7-900-6463701,inactive
+13,Employee 13,IT,2013,employee13@company.com,Analyst,118984,Yekaterinburg,+7-900-4382253,active
+14,Employee 14,Finance,2020,employee14@company.com,Developer,152009,Kazan,+7-900-5144050,inactive
+15,Employee 15,Marketing,2012,employee15@company.com,Specialist,67934,Moscow,+7-900-2290656,inactive
+16,Employee 16,Marketing,2015,employee16@company.com,Manager,188936,Novosibirsk,+7-900-5548206,active
+17,Employee 17,Support,2015,employee17@company.com,Analyst,130291,Kazan,+7-900-6369140,active
+18,Employee 18,IT,2014,employee18@company.com,Specialist,109299,Yekaterinburg,+7-900-9299040,active
+19,Employee 19,Support,2018,employee19@company.com,Analyst,143444,Yekaterinburg,+7-900-4601748,inactive
+20,Employee 20,IT,2023,employee20@company.com,Manager,136842,Saint Petersburg,+7-900-1498437,active
+21,Employee 21,Support,2015,employee21@company.com,Analyst,189625,Novosibirsk,+7-900-2616511,inactive
+22,Employee 22,Finance,2020,employee22@company.com,Specialist,143968,Novosibirsk,+7-900-3458206,active
+23,Employee 23,IT,2017,employee23@company.com,Manager,54259,Novosibirsk,+7-900-4082618,inactive
+24,Employee 24,IT,2016,employee24@company.com,Manager,74976,Moscow,+7-900-2658668,inactive
+25,Employee 25,HR,2021,employee25@company.com,Developer,87897,Kazan,+7-900-5986309,inactive
+26,Employee 26,Support,2014,employee26@company.com,Developer,60540,Yekaterinburg,+7-900-6229572,inactive
+27,Employee 27,Marketing,2021,employee27@company.com,Specialist,135071,Novosibirsk,+7-900-8417892,active
+28,Employee 28,Support,2017,employee28@company.com,Analyst,164773,Moscow,+7-900-4266773,active
+29,Employee 29,Support,2015,employee29@company.com,Manager,119364,Moscow,+7-900-3469691,active
+30,Employee 30,Marketing,2020,employee30@company.com,Specialist,57733,Kazan,+7-900-2243138,inactive
+31,Employee 31,IT,2010,employee31@company.com,Analyst,102265,Kazan,+7-900-5617746,active
+32,Employee 32,Sales,2014,employee32@company.com,Developer,147005,Kazan,+7-900-7334294,inactive
+33,Employee 33,Marketing,2015,employee33@company.com,Analyst,128965,Novosibirsk,+7-900-6607872,active
+34,Employee 34,Finance,2016,employee34@company.com,Specialist,137430,Kazan,+7-900-6585640,active
+35,Employee 35,Support,2010,employee35@company.com,Analyst,169439,Novosibirsk,+7-900-1573896,active
+36,Employee 36,Marketing,2021,employee36@company.com,Developer,194392,Saint Petersburg,+7-900-7873319,active
+37,Employee 37,Support,2010,employee37@company.com,Specialist,105049,Kazan,+7-900-1062374,active
+38,Employee 38,Sales,2021,employee38@company.com,Engineer,161473,Novosibirsk,+7-900-1726900,active
+39,Employee 39,Marketing,2018,employee39@company.com,Specialist,165470,Yekaterinburg,+7-900-8989589,active
+40,Employee 40,IT,2021,employee40@company.com,Manager,191406,Kazan,+7-900-5594399,inactive
+41,Employee 41,Finance,2022,employee41@company.com,Specialist,181756,Saint Petersburg,+7-900-7570086,active
+42,Employee 42,IT,2021,employee42@company.com,Analyst,79911,Moscow,+7-900-9196753,active
+43,Employee 43,Sales,2012,employee43@company.com,Manager,80793,Novosibirsk,+7-900-2168675,inactive
+44,Employee 44,Marketing,2019,employee44@company.com,Manager,149255,Novosibirsk,+7-900-7552893,inactive
+45,Employee 45,IT,2022,employee45@company.com,Manager,95676,Yekaterinburg,+7-900-3492038,active
+46,Employee 46,Marketing,2010,employee46@company.com,Specialist,103744,Moscow,+7-900-5602825,inactive
+47,Employee 47,IT,2015,employee47@company.com,Analyst,123345,Yekaterinburg,+7-900-3865128,inactive
+48,Employee 48,Sales,2014,employee48@company.com,Engineer,165832,Yekaterinburg,+7-900-3393970,active
+49,Employee 49,IT,2018,employee49@company.com,Analyst,105515,Moscow,+7-900-9741756,inactive
+50,Employee 50,Support,2022,employee50@company.com,Developer,99115,Yekaterinburg,+7-900-5355878,active
+51,Employee 51,IT,2012,employee51@company.com,Specialist,171516,Moscow,+7-900-8072019,active
+52,Employee 52,Support,2013,employee52@company.com,Developer,69947,Yekaterinburg,+7-900-9511455,inactive
+53,Employee 53,Support,2021,employee53@company.com,Developer,170368,Novosibirsk,+7-900-9947413,inactive
+54,Employee 54,Marketing,2024,employee54@company.com,Developer,63388,Kazan,+7-900-9011057,active
+55,Employee 55,IT,2012,employee55@company.com,Engineer,72150,Kazan,+7-900-7429501,active
+56,Employee 56,IT,2020,employee56@company.com,Specialist,63477,Kazan,+7-900-3961332,active
+57,Employee 57,Marketing,2020,employee57@company.com,Manager,106633,Saint Petersburg,+7-900-6002465,inactive
+58,Employee 58,Marketing,2015,employee58@company.com,Engineer,186681,Saint Petersburg,+7-900-8216170,inactive
+59,Employee 59,Sales,2017,employee59@company.com,Engineer,178653,Kazan,+7-900-7166657,active
+60,Employee 60,Support,2017,employee60@company.com,Manager,98592,Kazan,+7-900-9275854,inactive
+61,Employee 61,Support,2017,employee61@company.com,Engineer,52030,Kazan,+7-900-1951617,active
+62,Employee 62,Marketing,2017,employee62@company.com,Manager,167689,Kazan,+7-900-7621008,active
+63,Employee 63,HR,2012,employee63@company.com,Analyst,115409,Novosibirsk,+7-900-8364441,active
+64,Employee 64,Finance,2019,employee64@company.com,Developer,188833,Kazan,+7-900-8980355,inactive
+65,Employee 65,Support,2016,employee65@company.com,Analyst,190513,Kazan,+7-900-6331070,active
+66,Employee 66,IT,2015,employee66@company.com,Developer,167376,Kazan,+7-900-2086264,inactive
+67,Employee 67,Sales,2014,employee67@company.com,Analyst,116366,Saint Petersburg,+7-900-4617948,active
+68,Employee 68,Marketing,2010,employee68@company.com,Engineer,145240,Kazan,+7-900-3412223,inactive
+69,Employee 69,HR,2013,employee69@company.com,Manager,58395,Kazan,+7-900-9454616,inactive
+70,Employee 70,Finance,2020,employee70@company.com,Engineer,65194,Kazan,+7-900-7805054,active
+71,Employee 71,IT,2017,employee71@company.com,Engineer,116889,Moscow,+7-900-8327915,inactive
+72,Employee 72,IT,2020,employee72@company.com,Engineer,170106,Saint Petersburg,+7-900-8067891,inactive
+73,Employee 73,IT,2022,employee73@company.com,Engineer,87074,Yekaterinburg,+7-900-1096862,inactive
+74,Employee 74,Marketing,2024,employee74@company.com,Engineer,187285,Saint Petersburg,+7-900-1964600,active
+75,Employee 75,HR,2012,employee75@company.com,Specialist,54847,Moscow,+7-900-3255659,active
+76,Employee 76,IT,2013,employee76@company.com,Specialist,68238,Moscow,+7-900-1766525,inactive
+77,Employee 77,IT,2010,employee77@company.com,Specialist,153161,Yekaterinburg,+7-900-1955211,active
+78,Employee 78,Marketing,2013,employee78@company.com,Engineer,86486,Saint Petersburg,+7-900-1183255,active
+79,Employee 79,IT,2024,employee79@company.com,Manager,63086,Saint Petersburg,+7-900-4356457,inactive
+80,Employee 80,Sales,2010,employee80@company.com,Developer,134446,Saint Petersburg,+7-900-7267048,active
+81,Employee 81,IT,2013,employee81@company.com,Manager,73866,Yekaterinburg,+7-900-4025096,active
+82,Employee 82,Marketing,2018,employee82@company.com,Developer,117174,Saint Petersburg,+7-900-7180668,active
+83,Employee 83,IT,2017,employee83@company.com,Specialist,121762,Moscow,+7-900-9927260,active
+84,Employee 84,Sales,2019,employee84@company.com,Engineer,53462,Saint Petersburg,+7-900-6691032,active
+85,Employee 85,IT,2016,employee85@company.com,Specialist,183218,Saint Petersburg,+7-900-6199775,inactive
+86,Employee 86,Marketing,2020,employee86@company.com,Developer,150553,Kazan,+7-900-3588942,active
+87,Employee 87,IT,2011,employee87@company.com,Developer,125567,Novosibirsk,+7-900-3593356,inactive
+88,Employee 88,Support,2011,employee88@company.com,Engineer,77341,Kazan,+7-900-6780502,inactive
+89,Employee 89,Support,2013,employee89@company.com,Specialist,105985,Moscow,+7-900-7445841,active
+90,Employee 90,IT,2017,employee90@company.com,Specialist,145461,Kazan,+7-900-9733212,active
+91,Employee 91,Sales,2015,employee91@company.com,Analyst,93763,Kazan,+7-900-6089113,active
+92,Employee 92,Marketing,2019,employee92@company.com,Manager,198201,Saint Petersburg,+7-900-8846319,inactive
+93,Employee 93,Marketing,2022,employee93@company.com,Engineer,95653,Saint Petersburg,+7-900-3973910,inactive
+94,Employee 94,Sales,2015,employee94@company.com,Manager,79119,Kazan,+7-900-2614476,inactive
+95,Employee 95,Finance,2017,employee95@company.com,Specialist,62595,Moscow,+7-900-9193500,inactive
+96,Employee 96,Finance,2020,employee96@company.com,Specialist,93103,Moscow,+7-900-1726429,active
+97,Employee 97,Finance,2018,employee97@company.com,Analyst,55415,Moscow,+7-900-9636389,active
+98,Employee 98,Marketing,2019,employee98@company.com,Analyst,130365,Yekaterinburg,+7-900-5602397,inactive
+99,Employee 99,Marketing,2017,employee99@company.com,Specialist,132549,Saint Petersburg,+7-900-4848906,inactive
+100,Employee 100,Finance,2013,employee100@company.com,Manager,126429,Moscow,+7-900-9608120,active
