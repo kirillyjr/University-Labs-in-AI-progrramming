@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/kirill/Desktop/uni/основы_программирования Select CMakeLists.txt

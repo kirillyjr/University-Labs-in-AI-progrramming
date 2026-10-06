@@ -1,0 +1,6 @@
+основы_программирования/
+main.dSYM/
+__pycache__/
+.DS_Store
+.idea/
+cmake-build-*/
