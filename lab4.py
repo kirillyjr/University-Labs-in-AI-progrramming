@@ -1,7 +1,7 @@
 import numpy as np
 import time
 
-# ---------- Задание 1 ----------
+
 data = np.random.rand(24 * 60, 12)
 
 # 1.1 переформатирование: 1440 минут -> 24 часа по 60 минут
@@ -19,7 +19,6 @@ print(f.shape == d.shape)          # форма не меняется (поэл�
 print(np.abs(f - d).max())         # максимальное изменение
 
 
-# ---------- Задание 2 ----------
 np.random.seed(0)
 X = np.random.rand(500, 5)
 
@@ -53,7 +52,6 @@ far = D1.mean(axis=1).argmax()     # точка с наибольшим сред
 print(nearest[:5], far)
 
 
-# ---------- Задание 3 ----------
 # 3.1 нормализация строк
 X = np.random.rand(1000, 10)
 norms = np.linalg.norm(X, axis=1)  # (1000,)
