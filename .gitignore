@@ -5,3 +5,4 @@ __pycache__/
 .idea/
 cmake-build-*/
 main
+main.cpp
