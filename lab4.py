@@ -31,7 +31,7 @@ print(Xc.mean(axis=0))             # ~0
 t = time.time()
 diff = X[:, None, :] - X[None, :, :]       # Вставляем «пустые» оси. None в квадратных скобках создаёт новую ось размера 1
 D1 = np.sqrt((diff ** 2).sum(axis=2))      # сумма по признакам -> (500,500)
-t1 = time.time() - t #куб diff - 50 мб
+t1 = time.time() - t #куб diff - 10 мб
 
 # способ 2: |x-y|^2 = |x|^2 + |y|^2 - 2xy
 t = time.time()
