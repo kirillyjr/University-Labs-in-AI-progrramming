@@ -29,9 +29,9 @@ print(Xc.mean(axis=0))             # ~0
 
 # 2.2 расстояния, способ 1: broadcasting (500,1,5) - (1,500,5) -> (500,500,5)
 t = time.time()
-diff = X[:, None, :] - X[None, :, :]
+diff = X[:, None, :] - X[None, :, :]       # Вставляем «пустые» оси. None в квадратных скобках создаёт новую ось размера 1
 D1 = np.sqrt((diff ** 2).sum(axis=2))      # сумма по признакам -> (500,500)
-t1 = time.time() - t
+t1 = time.time() - t #куб diff - 50 мб
 
 # способ 2: |x-y|^2 = |x|^2 + |y|^2 - 2xy
 t = time.time()
@@ -47,15 +47,16 @@ print("способ 2:", t2, "c, самый большой массив", D2.nby
 # 2.3 соседи
 D = D1.copy()
 np.fill_diagonal(D, np.inf)        # иначе ближайшая точка - она сама
-nearest = D.argmin(axis=1)         # (500,)
+nearest = D.argmin(axis=1)         # (500,)  nearest[i] это номер точки, ближайшей к i
 far = D1.mean(axis=1).argmax()     # точка с наибольшим средним расстоянием
-print(nearest[:5], far)
+print(nearest[:5], far) 
 
 
 # 3.1 нормализация строк
+#Нормализовать значит сделать длину каждой строки равной 1. Для этого каждую строку делят на её длину
 X = np.random.rand(1000, 10)
-norms = np.linalg.norm(X, axis=1)  # (1000,)
-Xn = X / norms[:, None]            # (1000,10) / (1000,1)
+norms = np.linalg.norm(X, axis=1)  # (1000,) 
+Xn = X / norms[:, None]            # (1000,10) / (1000,1) 
 print(norms.shape, np.allclose(np.linalg.norm(Xn, axis=1), 1))
 
 # 3.2 логическая маска
